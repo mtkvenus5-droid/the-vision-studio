@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thevisionstudio.vercel.app/sitemap.xml
